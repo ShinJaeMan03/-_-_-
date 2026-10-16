@@ -137,13 +137,12 @@ python ".\2026.10.16_최종.py"
 ```bash
 pip install pymupdf pillow pytesseract openpyxl
 
-python "코딩과 응용 프로그램/2026.10.15.py"
+python "코딩과 응용 프로그램/2026.10.16_최종.py"
 
 .
-├── 코딩과 응용 프로그램/
-│   └── 2026.10.15.py           # 액상화 예비평가 메인 GUI 프로그램
-├── README.md                   # 프로젝트 안내 문서
-└── liquefaction_history.json   # 평가 결과 저장/이력 관리 파일 (자동 생성)
+├── 2026.10.16_최종.py           # 액상화 예비평가 메인 GUI 실행 프로그램
+├── README.md                    # 프로젝트 종합 안내 문서
+└── liquefaction_history.json    # 예비평가 수행 기록 및 대조용 데이터베이스 (자동 생성)
 
 ```bash
 pip install pymupdf pillow pytesseract openpyxl
